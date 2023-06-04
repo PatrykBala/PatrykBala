@@ -5,7 +5,7 @@
 
 ```python
 me = PatrykBala()
-me.say_nice_to_see_you_on_my_github_profile()
+me.say_nice_to_see_you()
 ```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PatrykBala" alt="PatrykBala" /> </p>
@@ -27,6 +27,6 @@ www.patrykbala.com
 
 # 👨‍🎓 About
 👷‍♂️: I’m currently working on HTML, CSS, JS.<br>
-✍️: I’m currently learning Java, C++, SQL.<br>
-💻: I’m looking to collaborate on any Java or C++ project.<br>
-👀: I’m looking for help (or any mentor) with Java or C++ learning
+✍️: I’m currently learning SQL, Linux, Python.<br>
+💻: I’m looking to collaborate on any Python project.<br>
+👀: I’m looking for help (or any mentor) with Python learning
