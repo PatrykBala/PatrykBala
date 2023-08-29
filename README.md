@@ -26,7 +26,7 @@ www.patrykbala.com
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 # 👨‍🎓 About
-👷‍♂️: I’m currently working on HTML, CSS, JS.<br>
-✍️: I’m currently learning SQL, Linux, Python.<br>
+👷‍♂️: I’m currently working on basic HTML, CSS, JS and Python.<br>
+✍️: I’m currently learning SQL, Linux, PowerShell, Ansible.<br>
 💻: I’m looking to collaborate on any Python project.<br>
 👀: I’m looking for help (or any mentor) with Python learning
